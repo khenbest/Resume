@@ -1,0 +1,10 @@
+section h1 {
+    background-color:cornsilk;
+}
+h1#name {background-color: cadetblue;}
+header{ text-align: center;}
+header h1:hover{color: cornsilk;}
+header h2:hover{color: red;}
+header h3:hover{color: red;}
+header h3 a:hover{color: red;}
+body{background-color: rgb(129, 226, 250);}
